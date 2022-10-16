@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182764150497",
+    "project_id": "kanakku-book-28ea9",
+    "storage_bucket": "kanakku-book-28ea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182764150497:android:38e962fb9ac3f5f6a1e1a0",
+        "android_client_info": {
+          "package_name": "com.example.kanakku_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182764150497-odah1v9o7bst2cdj30fc2tke6426dp4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfoFSrQtLcefHH1KcJyDb0yZnS_ry6cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182764150497-odah1v9o7bst2cdj30fc2tke6426dp4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
